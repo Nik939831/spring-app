@@ -1,0 +1,14 @@
+package com.company.training;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+class SpringBootDemoApplicationTest {
+
+    @org.junit.jupiter.api.BeforeEach
+    void setUp() {
+    }
+
+    @org.junit.jupiter.api.AfterEach
+    void tearDown() {
+    }
+}
